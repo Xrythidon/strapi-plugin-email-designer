@@ -21,6 +21,7 @@
     "@fortawesome/fontawesome-svg-core": "^6.2.1",
     "@fortawesome/free-solid-svg-icons": "^6.2.1",
     "@fortawesome/react-fontawesome": "^0.2.0",
+    "@strapi/utils": "^4.10.7",
     "dayjs": "^1.11.7",
     "decode-html": "^2.0.0",
     "html-to-text": "^9.0.1",
